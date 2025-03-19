@@ -4,6 +4,3 @@ This is piyush's file
 	jkdvbdjkvbdjvbdk
 ?>
 
-<jsp>
-	vojhevejvioejvoie
-</jsp>
